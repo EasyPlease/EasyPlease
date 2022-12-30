@@ -19,7 +19,7 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
+- [Checklists](https://github.com/EasyPlease/Checklists)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://github.com/EasyPlease/Bug-reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)

@@ -23,5 +23,5 @@
 - [Test-Cases](https://github.com/EasyPlease/Test-Cases)
 - [Bug-Reports](https://github.com/EasyPlease/Bug-reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://github.com/EasyPlease/Postman-Collections)
 

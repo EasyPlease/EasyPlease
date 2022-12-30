@@ -1,18 +1,8 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+[![Header]
+## I'm a Junior QA Engineer. 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://drive.google.com/file/d/1_fY4Wq-zjHPhBEkJ5gAUxF9ERsMn__tA/view?usp=share_link)
 
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Автоматизация и ручное тестирование. Обзор](https://www.youtube.com/watch?v=hhV7pIHQGMo)
-- [РАЗРАБОТЧИК ПРОТИВ &lpar;ЗА&rpar; ТЕСТИРОВЩИКА с @m0rtymerr](https://www.youtube.com/watch?v=EuLzxYEg-SA)
-- [QA Advent календарь для тестировщика. 31 задача на каждый день!](https://www.youtube.com/watch?v=hCI7fdJyP9Q)
-- [Можно &lpar;СЛОЖНО&rpar; ли стать тестировщиком &lpar;QA Engineer&rpar; в 2023?](https://www.youtube.com/watch?v=upFAjlpLACw)
-- [ТЕСТИРОВАНИЕ САЙТА НА ПРИМЕРЕ SKILLBOX. ОБЗОР КУРСОВ ДЛЯ ТЕСТИРОВЩИКОВ](https://www.youtube.com/watch?v=R6ZPordIelY)
-<!-- YOUTUBE:END -->
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -38,11 +28,3 @@
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
-### Follow Me
-[![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/ArtsiomRusauQALife?sub_confirmation=1)
-[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/rusau.qalife/)
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/qachanell)
-[![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/rusau_qa)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)

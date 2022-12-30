@@ -1,4 +1,3 @@
-[![Header]
 ## I'm a Junior QA Engineer. 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1_fY4Wq-zjHPhBEkJ5gAUxF9ERsMn__tA/view?usp=share_link)

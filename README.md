@@ -24,5 +24,4 @@
 - [Bug-Reports](https://github.com/EasyPlease/Bug-reports)
 - [SQL Queries](https://github.com/EasyPlease/SQL-Queries/tree/main)
 - [Postman Collections](https://documenter.getpostman.com/view/21427902/2s8YzZNe4o)
-- [Certificates](https://github.com/EasyPlease/Certificates)
 

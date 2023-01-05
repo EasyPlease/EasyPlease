@@ -17,6 +17,12 @@
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
+### Certificates
+[QA Engineer certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-9288069e-33ca-44eb-8900-16aefaa6072b.jpg)
+[English Proficiency Certificate](https://www.efset.org/cert/xHw4MS)
+
+
+
 ### Testing Documentation
 
 - [Checklists](https://github.com/EasyPlease/Checklists)

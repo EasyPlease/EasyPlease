@@ -20,7 +20,7 @@
 ### Certificates
 - [QA Engineer certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-9288069e-33ca-44eb-8900-16aefaa6072b.jpg)
 - [English Proficiency Certificate](https://www.efset.org/cert/xHw4MS)
-
+- [Python Certificate] (https://blob.sololearn.com/certificates/6f514d7a-6bb1-4b2d-8e05-05f2fadf8b1a.pdf)
 
 
 ### Testing Documentation

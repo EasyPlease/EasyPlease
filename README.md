@@ -1,6 +1,6 @@
 ## I'm a QA Engineer. 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1_fY4Wq-zjHPhBEkJ5gAUxF9ERsMn__tA/view?usp=share_link)
+[Link to my CV](https://drive.google.com/file/d/1hkD5RpQHF3mEdXMWc40lbCcBYXxO4S2E/view?usp=sharing)
 
 
 ### Language and Tools
